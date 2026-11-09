@@ -4873,6 +4873,7 @@ msgstr "Geen rijen"
 msgid "No runs match these filters."
 msgstr "Geen runs komen overeen met deze filters."
 
+#: src/pages/ActivityList.tsx
 #: src/pages/RoutineRunHistory.tsx
 msgid "No runs yet"
 msgstr "Nog geen runs"

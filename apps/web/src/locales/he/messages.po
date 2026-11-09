@@ -4873,6 +4873,7 @@ msgstr "אין שורות"
 msgid "No runs match these filters."
 msgstr "אין הרצות שתואמות למסננים האלה."
 
+#: src/pages/ActivityList.tsx
 #: src/pages/RoutineRunHistory.tsx
 msgid "No runs yet"
 msgstr "עדיין אין הרצות"

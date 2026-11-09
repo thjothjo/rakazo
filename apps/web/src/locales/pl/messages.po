@@ -4873,6 +4873,7 @@ msgstr "Brak wierszy"
 msgid "No runs match these filters."
 msgstr "Żadne uruchomienie nie pasuje do tych filtrów."
 
+#: src/pages/ActivityList.tsx
 #: src/pages/RoutineRunHistory.tsx
 msgid "No runs yet"
 msgstr "Brak uruchomień"
